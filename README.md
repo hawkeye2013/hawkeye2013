@@ -1,12 +1,12 @@
-### Hi there 👋
+## Hi there 👋 I'm Tucker!
 
 <!--
 **hawkeye2013/hawkeye2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 💡 I currently work with
+
+Vue, JavaScript, Node, TypeScript, Angular, MongoDB, PostgreSQL, Python, OpenShift, Kubernetes, Jenkins
+
+### 🎓 I’m currently learning
+
+Rust, Go
+
+### 💻 Github Stats
+
+[![Tucker Hawkinson GitHub Stats](https://github-readme-stats.vercel.app/api?username=hawkeye2013&show_icons=true&count_private=true)](https://github.com/hawkeye2013)
+
+### 🔭 I’m currently working on
+
+[![Pufferfish Card](https://github-readme-stats.vercel.app/api/pin/?username=hawkeye&repo=pufferfish&show_owner=true)](https://github.com/hawkeye2013/pufferfish)
