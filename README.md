@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi There! 👋
 
 ## My name is Tucker Hawkinson!
 
