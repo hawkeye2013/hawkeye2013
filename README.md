@@ -31,7 +31,7 @@ Rust, Go
 
 ### 🔭 I’m currently working on
 
-[![Devworx Card](https://github-readme-stats.vercel.app/api/pin/?username=hawkeye2013&repo=devworx&show_owner=true)](https://github.com/hawkeye2013/devworx)
+[![Rexus Card](https://github-readme-stats.vercel.app/api/pin/?username=hawkeye2013&repo=rexus&show_owner=true)](https://github.com/hawkeye2013/rexus)
 
 [![Pufferfish Card](https://github-readme-stats.vercel.app/api/pin/?username=hawkeye2013&repo=pufferfish&show_owner=true)](https://github.com/hawkeye2013/pufferfish)
 
