@@ -29,10 +29,10 @@ Rust, Go
 
 [![Tucker Hawkinson GitHub Stats](https://github-readme-stats.vercel.app/api?username=hawkeye2013&show_icons=true&count_private=true)](https://github.com/hawkeye2013)
 
-### 🔭 I’m currently working on
+<!-- ### 🔭 I’m currently working on
 
 [![Rexus Card](https://github-readme-stats.vercel.app/api/pin/?username=hawkeye2013&repo=rexus&show_owner=true)](https://github.com/hawkeye2013/rexus)
 
-[![Pufferfish Card](https://github-readme-stats.vercel.app/api/pin/?username=hawkeye2013&repo=pufferfish&show_owner=true)](https://github.com/hawkeye2013/pufferfish)
+[![Pufferfish Card](https://github-readme-stats.vercel.app/api/pin/?username=hawkeye2013&repo=pufferfish&show_owner=true)](https://github.com/hawkeye2013/pufferfish) -->
 
 
