@@ -1,7 +1,5 @@
 ## Hi There! 👋
 
-## My name is Tucker Hawkinson!
-
 <!--
 **hawkeye2013/hawkeye2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
