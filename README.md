@@ -23,9 +23,4 @@ Vue, JavaScript, Node, TypeScript, Angular, MongoDB, PostgreSQL, Python, OpenShi
 
 Rust
 
-### 💻 Github Stats
-
-[![Tucker Hawkinson GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuckers-tech&show_icons=true&count_private=true)](https://github.com/tuckers-tech)
-
-
 
