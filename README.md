@@ -21,6 +21,6 @@ Vue, JavaScript, Node, TypeScript, Angular, MongoDB, PostgreSQL, Python, OpenShi
 
 ### 🎓 I’m currently learning
 
-Rust
+Go
 
 
