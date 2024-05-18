@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 
 ### 💡 I currently work with
 
-Vue, JavaScript, Node, TypeScript, Angular, MongoDB, PostgreSQL, Python, OpenShift, Kubernetes, Jenkins
+Vue, TypeScript, Node, TypeScript, MongoDB, PostgreSQL, Rust
 
-### 🎓 I’m currently learning
-
-Go
 
 
